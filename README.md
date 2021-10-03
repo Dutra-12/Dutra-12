@@ -1,6 +1,6 @@
 ## Hi there João Lucas Dutra👋
 
-- Estudando CSS
+- Estudando JavaScript
 - Pronomes: Ele/Dele
 
 ##
